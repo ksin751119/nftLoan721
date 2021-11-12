@@ -1,0 +1,13 @@
+*.swp
+
+# Dependency directory
+node_modules
+
+# truffle build directory
+build/
+
+# lol macs
+.DS_Store
+package-lock.json
+run_test.sh
+refernce/
